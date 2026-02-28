@@ -1,0 +1,7 @@
+{
+  "name": "Nadellite",
+  "resourceOnly": false,
+  "alwaysActivate": true,
+  "vendor": "vsp",
+  "windows": { "bin": "bin\\win64" }
+}

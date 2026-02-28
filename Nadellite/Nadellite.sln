@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 18
+VisualStudioVersion = 18.2.11430.68
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nadellite", "Nadellite.csproj", "{ACC793AA-02E9-4A26-A7F8-2E5D3614C90E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ACC793AA-02E9-4A26-A7F8-2E5D3614C90E}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{ACC793AA-02E9-4A26-A7F8-2E5D3614C90E}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{ACC793AA-02E9-4A26-A7F8-2E5D3614C90E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACC793AA-02E9-4A26-A7F8-2E5D3614C90E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E16657E7-458E-4F88-A3BE-1B779AD892EB}
+	EndGlobalSection
+EndGlobal
